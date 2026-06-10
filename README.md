@@ -13,4 +13,4 @@
 - Git, PowerShell, Python  
 - Jira, ServiceNow  
 
-📫 Contacto: [LinkedIn](https://linkedin.com/in/tuusuario) | [Correo](mailto:tuemail@ejemplo.com)
+📫 Contacto: [LinkedIn](https://www.linkedin.com/in/dennis-madrigal) | [Correo](d550madrigal@hotmail.com)
