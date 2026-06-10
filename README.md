@@ -1,4 +1,3 @@
-# dennis-projects
 # Portafolio de Dennis Madrigal
 
 👨‍💻 Cloud & Endpoint Support Specialist | Estudiante de Ingeniería en Computación  
