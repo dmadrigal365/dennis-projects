@@ -1,0 +1,61 @@
+# 🧩 ITSM Simulation Project – Jira Service Management
+
+## 📘 Overview
+This project simulates a **Technical Support environment** using **Jira Service Management Cloud**, designed to replicate how a real company handles IT service requests, incidents, and customer communication.
+
+The simulation includes:
+- A **customer portal** for submitting requests.
+- A **ticket management system** for agents.
+- **Live chat and email channels** for communication.
+- A **knowledge base** for self-service articles.
+- **Reports and SLAs** to track performance.
+
+---
+
+## 🧱 System Components
+
+| Module | Description | Example |
+|--------|--------------|---------|
+| **Customer Portal** | Entry point for users to raise requests. Categories include Common Requests, Computers, Logins, Applications, and Servers. | ![Portal Screenshot](images/portal.png) |
+| **Ticket View (Customer)** | Shows ticket details, agent responses, and status updates. | ![Customer Ticket](images/customer_ticket.png) |
+| **Ticket View (Agent)** | Internal Jira interface where agents manage tickets, add notes, and track SLAs. | ![Agent View](images/agent_view.png) |
+| **SLA & Reports** | Monitors time to first response and resolution. | ![SLA Dashboard](images/sla_dashboard.png) |
+| **Portal Configuration** | Customization of help center and integration with chat/email channels. | ![Portal Config](images/portal_config.png) |
+
+---
+
+## 🧠 Workflow Simulation
+
+1. **Customer submits a request** through the portal.
+2. **System creates a ticket** and assigns it to the support queue.
+3. **Agent reviews and responds**, adding internal notes and communicating with the customer.
+4. **SLA tracking** ensures timely response and resolution.
+5. **Ticket resolution** closes the request and updates the customer.
+
+---
+
+## 🧰 Tools Used
+- **Jira Service Management Cloud**
+- **Customer Portal**
+- **Email and Live Chat Channels**
+- **Knowledge Base Integration**
+- **SLA Reports and Dashboards**
+
+---
+
+## 🎯 Project Goal
+To demonstrate how IT support operations can be structured and automated using Jira Service Management, applying ITSM best practices for communication, documentation, and resolution tracking.
+
+---
+
+## 📊 Future Enhancements
+- Add examples of knowledge base articles.
+- Document chatbot flow and Teams integration.
+- Expand SLA reporting and automation rules.
+
+---
+
+## 👨‍💻 Author
+**Dennis Madrigal**  
+Cloud & Endpoint Support Specialist | ITSM Enthusiast  
+Location: Desamparados, Costa Rica
